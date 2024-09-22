@@ -1,7 +1,6 @@
 ## Hi 👋
-Welcome to AIChemists' GitHub! We are a multidisciplinary group of chemists, engineers, and AI specialists committed to transforming the field of chemical 
-synthesis through automation and artificial intelligence. 
-Our team is a member of the Precision and Intelligent Chemistry (PIC) Key Laboratory at USTC.
+Welcome to AIChemists' GitHub! We are a multidisciplinary group of chemists, engineers, and AI specialists committed to making innovations in chemistry and materials through automation and artificial intelligence. 
+Our team is an active member of the Precision and Intelligent Chemistry (PIC) Key Laboratory at USTC.
 
 ## Mission
 Our mission is to revolutionize chemical synthesis by developing fully autonomous laboratories that leverage AI and robotic systems. 
